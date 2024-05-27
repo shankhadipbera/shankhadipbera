@@ -1,4 +1,4 @@
-![App Screenshot](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhN9hnnv30MnAVUFrsvbp_M9ZxjaIZJaedwS9bBO2BDLeRRkqYyMWQwtx5PE11pZa9RD2e74B2yFtjTJA1ky0WjpLeiyMaL54SZDI_X_Bvw6qy7uOoUKpf7gezCmE1f08X_Ums0PFlZph7mF112StiyOViMDasmtsDtm-iqwOqRT2ROzHHgM3rnPla3mc4/s16000/shankha.jpg)
+![App Screenshot](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiR5cV0WFCCMgJWNP4lqqCY9jWAW3dSgf1h1AMCnQe70On5iO8YLwhl3ya6eH5wHgX1c3w-sQ2mhDRvvj8RUyD7NyDDdcSkulQYxnMJHy3aRrRY7v2vnDMh8iQlNfwTAKfQQbrOzOUjsTb8xHxA4eZQGJq4aJwrPF2MeeE678ZpoHY3FSp8Rd9QnDY_llO0/w640-h235/Boost%20your%20brand..png)
 
 <h1 align="center">Hi 👋, I'm Shankhadip Bera</h1>
 <h3 align="center">A passionate Android developer from India</h3>
