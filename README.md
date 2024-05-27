@@ -1,4 +1,4 @@
-![App Screenshot]((https://github.com/shankhadipbera/shankhadipbera/assets/132296551/7dadb532-3c6c-475c-b55a-348ff946773a)
+![App Screenshot](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhN9hnnv30MnAVUFrsvbp_M9ZxjaIZJaedwS9bBO2BDLeRRkqYyMWQwtx5PE11pZa9RD2e74B2yFtjTJA1ky0WjpLeiyMaL54SZDI_X_Bvw6qy7uOoUKpf7gezCmE1f08X_Ums0PFlZph7mF112StiyOViMDasmtsDtm-iqwOqRT2ROzHHgM3rnPla3mc4/s16000/shankha.jpg)
 
 <h1 align="center">Hi 👋, I'm Shankhadip Bera</h1>
 <h3 align="center">A passionate Android developer from India</h3>
